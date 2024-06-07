@@ -14,12 +14,11 @@ the terminal will print the results of whatever the code wants to print but the 
 programming strategies encapsulation, polymorphism, and Abstraction in C++.
  
 **Abstraction:**
-
 taking a base class such as bank that holds all variables and methods that all banks require which then specified banks can abstract those.
 variables and methods when needed or modify or create more methods.
+
 **Encapsulation:**
-
 Taking control of what data users have access too by limiting variables to be modified outside the program.
-**Polymorphism:**
 
+**Polymorphism:**
 taking base class I can implement different classes to act similarly by using the same methods and variables but performing different logic.
