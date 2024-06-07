@@ -2,7 +2,7 @@
 Proof of my understanding of C++ and basic programming patterns
 
 
-HOW TO OPEN AND RUN PROJECT:
+## HOW TO OPEN AND RUN PROJECT:
 open Visual Studio and open the folder holding the main.cpp file.
 here you can view my code which corresponds to the folders name and purpose of code.
 to run code open new terminal again track the folder where the c++ project is located and run these commands:
